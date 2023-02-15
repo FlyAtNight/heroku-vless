@@ -13,7 +13,7 @@ Heroku是一个支持多种编程语言的云平台即服务。目前支持Ruby�
 
 经测试本镜像占用内存资源较低，运行稳定。点击下方紫色图标部署。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Frptec%2Fheroku-vless)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FFlyAtNight%2Fheroku-vless)
 
 
 #### 注：失效问题
@@ -24,7 +24,7 @@ a.这里建议你fork本代码后，在github里设置为私有，然后绑定�
 
 b.或者也可以fork代码后，修改下面链接rptec为你自己账户名，通过链接部署。
 
-https://dashboard.heroku.com/new?template=https://github.com/rptec/heroku-vless.git
+https://dashboard.heroku.com/new?template=https://github.com/FlyAtNight/heroku-vless.git
 
 免费服务，且用且珍惜。
 
